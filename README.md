@@ -1,5 +1,5 @@
 # Assignment1
-CS203 Assignment1 - Hashim Abdulla
+CS303 Assignment1 - Hashim Abdulla
 
 # INSTRUCTIONS
 The program first reads from a text file, user can use test.txt to test. Then the program loads those integers into a dynamic array. Then the user is presented with a menu of what he/she wants to do with the array. User can input 1,2,3,4,5 or q to quit, if an invalid choice is inputted, the switch statement will ask again. try and catch blocks for user input are implemented in modifyValue and  addIntegerToEnd functions.
